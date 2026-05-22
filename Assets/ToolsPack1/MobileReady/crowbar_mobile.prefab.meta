@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78c8ba51975323d45bf8300785cf37b1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20510
+  packageName: Tools Pack 1
+  packageVersion: draft
+  assetPath: Assets/ToolsPack1/MobileReady/crowbar_mobile.prefab
+  uploadId: 39221

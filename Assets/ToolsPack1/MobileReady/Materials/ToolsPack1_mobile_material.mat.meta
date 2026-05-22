@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bdd6560206e0c7a44ac750f621aa5a06
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20510
+  packageName: Tools Pack 1
+  packageVersion: draft
+  assetPath: Assets/ToolsPack1/MobileReady/Materials/ToolsPack1_mobile_material.mat
+  uploadId: 39221

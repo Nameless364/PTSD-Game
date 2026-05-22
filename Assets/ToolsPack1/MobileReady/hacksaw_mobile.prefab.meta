@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd431dda49a50a04abd3c96aaa1a75c4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20510
+  packageName: Tools Pack 1
+  packageVersion: draft
+  assetPath: Assets/ToolsPack1/MobileReady/hacksaw_mobile.prefab
+  uploadId: 39221
